@@ -1,0 +1,132 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.flex{
+	display: flex;
+}
+header{
+	height: 135px;
+	align-items: center;
+}
+.inscreva{
+	text-transform: uppercase;
+	padding: 5px 10px;
+	border: 1px solid #1111114D;
+	border-radius: 4px;
+	color: #111111;
+	font-size: 14px;
+	font-family: 'Space Grotesk', sans-serif;
+}
+a{
+	text-decoration: none;
+}
+header img {
+	margin-top: -20px;
+	width: 6vw;
+	display: inline;
+	position: absolute;
+}
+header ul{
+	justify-content: space-between;
+	font-family: Lato, Medium;
+	font-size: 16px;
+	color: #333333;
+}
+footer{
+	position: relative;
+	align-items: center;
+}
+.logoF img {
+    width: 9vw;
+}
+footer ul{
+	justify-content: space-between;
+	font-family: 'Space Grotesk', sans-serif;
+	font-size: 16px;
+	color: #333333;
+	font-weight: 100
+}
+.poligno {
+	background-image: url(img/Polygon2.png);
+	width: 203px;
+	height: 160px;
+	background-repeat: no-repeat;
+	margin-left: -95px;
+	margin-top: -80px;
+}
+#cop{
+	font-family: 'Space Grotesk', sans-serif;
+	font-weight: 400;
+	color: #33333380;
+	font-size: 16px;
+}
+#inf{
+	font-family: 'Space Grotesk', sans-serif;
+	font-weight: 400;
+	color: #333333;
+	font-size: 16px;
+}
+footer ul a {
+	color: #333333;
+	font-weight: 400;
+}
+.col.s1.imgfooter{
+	background-image: url("img/Combined Shape.png");
+    width: 50px;
+    height: 65px;
+    background-repeat: no-repeat;
+}
+.borda {
+    border-top: 1px solid;
+    color: #33333380;
+    width: 92%;
+    margin: 0 auto;
+    padding-bottom: 25px;
+    margin-top: 15px;
+}
+.termo {
+    text-align: right;
+}
+.oval {
+    position: absolute;
+    width: 190px;
+    height: 190px;
+    background-color: #900900a1;
+    border-radius: 50%;
+    top: 15px;
+    right: -32px;
+    z-index: -1;
+}
+.relative{
+	position: relative;
+}
+#evento span{
+	font-family: 'Space Grotesk', sans-serif;
+	font-weight: 300;
+	color: #7F1315;
+	font-size: 19px;
+	margin-left: 6px;
+}	
+#evento h2{
+	font-weight: 400;
+	color: #333333;
+	font-size: 72px;
+	letter-spacing: -2px;
+}
+.inscreva2 {
+    background-color: #7F1315;
+    color: white;
+    padding: 10px 20px;
+    font-size: 14px;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+#evento p{
+	margin-bottom: 30px;
+}
+#video img{
+	width: 435px;
+	height: auto;
+}
