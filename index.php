@@ -116,7 +116,7 @@ include "header.php";
 </div><!--BACKGROUND - BLACK -->	
 </section>
 <section>
-	<div class="row container">
+	<div class="row container marginF">
 		<div class="col s12">
 			<div class="Parh2">
 				<h2>Parceiros</h2>
@@ -140,6 +140,67 @@ include "header.php";
 </div>
 </div>
 </div>
+</div>
+</section>
+<section>
+	<div class=" row container">
+		<div class="redbg">
+			<div class=" col s6">
+				<p>Participe</p>
+				<h2>Inscreva-se agora</h2>
+				<a href="">Clique Aqui</a>
+			</div>
+			<div class=" col s6"></div>
+		</div>
+	</div>
+</section>
+<section>
+	<div class="bgblack2">
+		<div class="row container">
+			<div class="col s12">
+				<div class="tituloP"><span>DOAÇÕES</span>
+					<h2>Instituições Beneficiadas
+					</h2>
+				</div>
+			</div>
+			<div class="col s6">
+				<div class="nomeI">
+					<img src="img/doacao2.png">
+					<p>
+						Nome da instituição
+					</p>
+				</div>
+			</div>
+			<div class="col s6">
+				<div class="nomeI">
+					<img src="img/doacao.png">
+					<p>
+						Nome da instituição
+					</p>
+				</div>
+			</div>
+			<div class="col s12">
+				<div class="marginG">
+					<a href="">Ver Todas</a>
+				</div>
+			</div>
+		</div>
+		<div class="row container">
+			<div class="marginZ">
+				<div class="bgred">
+					<div class="col s7">
+						<p>Incrições</p>
+						<h2>Participe do Evento</h2>
+					</div>
+					<div class="col s5">
+						<div class="marginW">
+							<a href="">INSCREVER-SE</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 </section>
 
